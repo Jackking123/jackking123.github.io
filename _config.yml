@@ -26,9 +26,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "I think, therefore I am."
   location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  employer         : "Zhejiang University"
+  email            : "22230022@zju.edu.cn" 
 
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=t12cp3cAAAAJ"
