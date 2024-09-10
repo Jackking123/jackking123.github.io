@@ -15,7 +15,6 @@ During my master’s program, I have been working in Prof. Cuifang Kuang’s Lab
 
 You can fine my CV here: [Xinxun Yang's Curriculum Vitate](../assets/Curriculum_Vitate.pdf).
 
-[Email](mailto:22230022@zju.edu.cn)
 
 
 
