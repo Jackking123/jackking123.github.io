@@ -22,21 +22,18 @@ repository               : "jackking123/jackking123.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Xinxun Yang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "I think, therefore I am."
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
   email            : "none@example.org" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=t12cp3cAAAAJ"
+  orcid            : "https://orcid.org/0009-0004-3299-4094"
+  researchgate     : "https://www.researchgate.net/profile/Xinxun-Yang"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
