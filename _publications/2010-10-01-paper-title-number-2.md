@@ -1,8 +1,8 @@
 ---
-title: "Fluorescence interference based polarized structured illumination microscopy for high axial resolution imaging of dipole orientations"
-date: 2024
-venue: 'Laser &Photonics Reviews'
-status: 'currently under revision'
+Title: "Fluorescence interference based polarized structured illumination microscopy for high axial resolution imaging of dipole orientations"
+Date: 2024
+Venue: 'Laser &Photonics Reviews'
+Status: 'currently under revision'
 Author: 'Yile Sun, Hongfei Zhu, Xinxun Yang, et al.'
 ---
 
