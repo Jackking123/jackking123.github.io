@@ -13,7 +13,7 @@ I am currently a second-year master student from [College of Optical Science and
 
 During my master’s program, I have been working in [Prof. Cuifang Kuang’s Lab](https://person.zju.edu.cn/cfkuang#926116), actively engaging myself in a number of projects related to adaptive optics in wide-field super-resolution microscopy such as Single Molecule Localization Microscopy (SMLM) and Structured Illumination Microscopy (SIM). 
 
-You can fine my CV here: [Xinxun Yang's Curriculum Vitate](../assets/Curriculum_Vitate.pdf).
+You can fine my CV here: [Xinxun Yang's Curriculum Vitate](../assets/Curriculum_Vitae.pdf).
 
 
 
