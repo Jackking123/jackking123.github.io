@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello.
+Welcome!
 I am currently a second-year master student from [College of Optical Science and Engineering](http://opt.zju.edu.cn/), [Zhejiang University](https://www.zju.edu.cn/), China.
 
 My research focuses on aberration correction and adaptive optics to enhance the performance of optical microscopy. By leveraging super-resolution techniques, adaptive optics, and computational modeling, my goal is to explore the secrets and behavior of live-cells by correcting aberrations to achieve deeper, wider, and higher spatial-temporal resolution 3D imaging. My research interest includes computational imaging, adaptive optics, super-resolution microscopy.
