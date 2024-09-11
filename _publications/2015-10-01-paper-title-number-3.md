@@ -1,8 +1,8 @@
 ---
-title: "Single-frame structured illumination microscopy for fast live-cell imaging"
-date: 2024
-venue: 'APL Photonics'
-status: 'Published'
+Title: "Single-frame structured illumination microscopy for fast live-cell imaging"
+Date: 2024
+Venue: 'APL Photonics'
+Status: 'Published'
 Author: Hanmeng Wu, Yueming Li, Yile Sun, Lu Yin, Weiyun Sun, Zitong Ye, Xinxun Yang, Hongfei Zhu, Mingwei Tang, Yubing Han, Cuifang Kuang, and Xu Liu
 DOI: 'https://doi.org/10.1063/5.0180978'
 ---
