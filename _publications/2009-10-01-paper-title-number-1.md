@@ -1,9 +1,8 @@
 ---
-title: "Accurate 3D SMLM localization via Vectorial In-situ PSF Retrieval and Aberration Assessment"
-collection: publications
-date: 2024
-venue: 'Photonics Research'
-status: 'Accepted'
+Title: "Accurate 3D SMLM localization via Vectorial In-situ PSF Retrieval and Aberration Assessment"
+Date: 2024
+Venue: 'Photonics Research'
+Status: 'Accepted'
 Author: 'Xinxun Yang, Hongfei Zhu, Yile Sun, Hanmeng Wu, Yubing Han, Xiang Hao, Renjie Zhou, Cuifang Kuang, Xu Liu'
 DOI: 'https://doi.org/10.1364/PRJ.520469'
 ---
