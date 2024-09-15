@@ -2,12 +2,7 @@
 permalink: /
 title: "Publications"
 ---
-
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-
-{% include base_path %}
+**You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=t12cp3cAAAAJ&hl=en).**
 
 ## **Accurate 3D SMLM localization via Vectorial In-situ PSF Retrieval and Aberration Assessment** 
 **Xinxun Yang**, Hongfei Zhu, Yile Sun, Hanmeng Wu, Yubing Han, Xiang Hao, Renjie Zhou, Cuifang Kuang, Xu Liu, “Accurate 3D SMLM localization via Vectorial In-situ PSF Retrieval and Aberration Assessment,” Accepted by *Photonics Research*. DOI: [10.1364/PRJ.520469](https://doi.org/10.1364/PRJ.520469)
