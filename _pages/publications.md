@@ -1,8 +1,6 @@
 ---
-layout: archive
+permalink: /
 title: "Publications"
-permalink: /publications/
-author_profile: true
 ---
 
 {% if site.author.googlescholar %}
