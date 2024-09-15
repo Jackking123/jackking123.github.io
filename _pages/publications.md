@@ -1,6 +1,10 @@
 ---
+layout: archive
 title: "Publications"
-permalink: /publications/
+permalink: /Publications/
+author_profile: true
+redirect_from:
+  - /publication
 ---
 ### **You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=t12cp3cAAAAJ&hl=en).**
 
