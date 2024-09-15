@@ -1,6 +1,6 @@
 ---
 title: "Accurate 3D SMLM localization via Vectorial In-situ PSF Retrieval and Aberration Assessment"
-collection: publications_accepted
+collection: publications
 category: manuscripts
 date: 2024
 venue: 'Photonics Research'
