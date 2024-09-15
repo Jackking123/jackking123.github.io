@@ -1,6 +1,6 @@
 ---
 title: "Fluorescence interference based polarized structured illumination microscopy for high axial resolution imaging of dipole orientations"
-collection: publications_revised
+collection: publications
 category: manuscripts
 date: 2024
 venue: 'Laser &Photonics Reviews'
