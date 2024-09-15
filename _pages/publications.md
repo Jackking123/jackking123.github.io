@@ -1,11 +1,11 @@
 ---
 layout: archive
 title: "Publications"
-permalink: /Publications/
+permalink: /publications/
 author_profile: true
-redirect_from:
-  - /publications
 ---
+{% include base_path %}
+
 ### **You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=t12cp3cAAAAJ&hl=en).**
 
 ### **Accurate 3D SMLM localization via Vectorial In-situ PSF Retrieval and Aberration Assessment** 
