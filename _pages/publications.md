@@ -9,7 +9,7 @@ author_profile: true
 ### **You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=t12cp3cAAAAJ&hl=en).**
 
 ### **1. Accurate 3D SMLM localization via Vectorial In-situ PSF Retrieval and Aberration Assessment** 
-**Xinxun Yang**, Hongfei Zhu, Yile Sun, Hanmeng Wu, Yubing Han, Xiang Hao, Renjie Zhou, Cuifang Kuang, Xu Liu, “Accurate 3D SMLM localization via Vectorial In-situ PSF Retrieval and Aberration Assessment,” Accepted by *Photonics Research*. DOI: [10.1364/PRJ.520469](https://doi.org/10.1364/PRJ.520469)
+**Xinxun Yang**, Hongfei Zhu, Yile Sun, Hanmeng Wu, Yubing Han, Xiang Hao, Renjie Zhou, Cuifang Kuang, Xu Liu, “Accurate 3D SMLM localization via Vectorial In-situ PSF Retrieval and Aberration Assessment,” Photon. Res. 12, 2447-2461 (2024). DOI: [10.1364/PRJ.520469](https://doi.org/10.1364/PRJ.520469)
 
 ### **2. Fluorescence interference based polarized structured illumination microscopy for high axial resolution imaging of dipole orientations** 
 Yile Sun, Hongfei Zhu, **Xinxun Yang**, et al., “Fluorescence interference based polarized structured illumination microscopy for high axial resolution imaging of dipole orientations,” submitted to Laser &Photonics Reviews, currently under revision.
